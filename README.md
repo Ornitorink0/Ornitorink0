@@ -12,6 +12,8 @@
 - 😄 Pronouns: kg/lbs, yeah... eheheh
 - ⚡ Fun fact: I discovered that the earth rotates around Toi 270 b
 
+PS > Don't take me seriously, not because I recommend it, but because it just can't be done. It's impossible
+
 <!---
 Ornitorink0/Ornitorink0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
