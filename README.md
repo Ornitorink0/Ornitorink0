@@ -1,3 +1,5 @@
+![Amazing platypus](or-nito-rinko.png)
+
 - 👋 Hi, I’m @Ornitorink0 (づ￣ 3￣)づ
 - 👀 I’m interested in:
   * Programming,
