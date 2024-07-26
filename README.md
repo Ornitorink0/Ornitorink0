@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning JavaScript, TypeScript and Java
 - 💞️ I’m looking to collaborate on ... i-i don't k-know.. 🥲
 - 📫 How to reach me: I'm sorry, you can't, because I'm Optimus Prime
-- 😄 Pronouns: kg/lbs, yeah... eheheh
+- 😄 Pronouns: kg/lbs, yeah... eheheh (joking)
 - ⚡ Fun fact: I discovered that the earth rotates around Toi 270 b
 
 PS > Don't take me seriously, not because I recommend it, but because it just can't be done. It's impossible
