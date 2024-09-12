@@ -1,6 +1,16 @@
 # 💫 About Me:
 
-👋 Hi, I’m Ornitorink0!`<br>`I’m a technology enthusiast with a strong inclination towards programming, design, and art. My curiosity and creativity drive me to constantly explore new horizons in both coding and visual arts.`<br><br>`✨ I enjoy front-end development but can adapt to everything, including low-level programming. I’m passionate about creating attractive and functional user interfaces while also delving into more technical and complex programming challenges. Using logic and creativity to solve problems and optimize code is my thing.`<br><br>`🌱 Currently learning: JavaScript, TypeScript, and Java.`<br>`🎨 Outside of coding, you’ll find me designing, writing, making music, or hitting the gym.`<br><br>`Let’s connect and create something amazing!
+👋 Hi, I’m Ornitorink0!
+
+I’m a technology enthusiast with a strong inclination towards programming, design, and art. My curiosity and creativity drive me to constantly explore new horizons in both coding and visual arts.
+
+✨ I enjoy front-end development but can adapt to everything, including low-level programming. I’m passionate about creating attractive and functional user interfaces while also delving into more technical and complex programming challenges. Using logic and creativity to solve problems and optimize code is my thing.
+
+🌱 Currently learning: JavaScript, TypeScript, and Java.
+
+🎨 Outside of coding, you’ll find me designing, writing, making music, or hitting the gym.
+
+Let’s connect and create something amazing!
 
 ## 🌐 Socials:
 
