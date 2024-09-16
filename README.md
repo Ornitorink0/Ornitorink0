@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap');
     .logo {
         font-family: 'Inter', sans-serif;
@@ -40,7 +40,7 @@
     }
 </style>
 
-<div class="logo">Ornitorink0</div>
+<div class="logo">Ornitorink0</div> -->
 
 # 💫 About Me
 
