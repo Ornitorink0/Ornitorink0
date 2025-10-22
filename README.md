@@ -23,14 +23,7 @@
 
 ⚒️ I am currently focused on studying and on some personal and extracurricular projects. My goal is to finish school with excellent grades and continue my studies in **engineering** at university.
 
-### Connect with me:
-<p align="left">
-<a href="https://codepen.io/ornitorink0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ornitorink0" height="30" width="40" /></a>
-<a href="https://twitter.com/ornitorink0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ornitorink0" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ornitorink0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ornitorink0" height="30" width="40" /></a>
-</p>
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; margin: 2em 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 2em; margin: 2em 0;">
 
   <!-- Languages -->
   <div style="box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 1.8em; padding: 1.2em 1.4em; width: fit-content;">
@@ -89,3 +82,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ornitorink0&" alt="ornitorink0" /></p>
 </div>
+
+### Connect with me:
+<p align="left">
+<a href="https://codepen.io/ornitorink0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ornitorink0" height="30" width="40" /></a>
+<a href="https://twitter.com/ornitorink0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ornitorink0" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ornitorink0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ornitorink0" height="30" width="40" /></a>
+</p>
