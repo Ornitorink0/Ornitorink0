@@ -1,91 +1,109 @@
 <h1>Haaaay☺️, I'm Ornitorink0</h1>
 <h3>A passionate full-stack developer from Italy</h3>
 
-- 🔭 I’m currently working on [Mnemosine - Web App for Alzheimer's Diagnosis](https://github.com/is-sobrero/mnemosineFE) and personal projects.
+- 🔭 I’m currently working on [Mnemosine - Web App for Alzheimer's Diagnosis](https://github.com/Ornitorink0/Mnemosine) and personal projects.
 
-- 🌱 I’m currently learning **Laravel (PHP btw), C-Advanced, Rust, Linux Kernel**
+- 🌱 I’m currently learning **Rust and type of databases**
 
-- 👯 I’m looking to collaborate on [Shadcn - UI](https://github.com/shadcn-ui/ui)
+<!-- - 👯 I’m looking to collaborate on [Shadcn - UI](https://github.com/shadcn-ui/ui) -->
 
-- 👨‍💻 Check out my portfolio (blog soon) [Ornitorink0.is-a.dev](Ornitorink0.is-a.dev)
+- 👨‍💻 Check out my portfolio (blog soon) [Ornitorink0.com](Ornitorink0.com)
 
 - 💬 Ask me about **Web Frameworks (like Next.js, ect.), computer & network basics**
 
 - 📫 How to reach me **ornitorink0.dev@gmail.com**
 
-- ⚡ Fun fact **Ornitorink0 means platypus**
+- ⚡ Fun fact **Ornitorink0 means platypus (from italian *ornitorinco*)**. My name is a play on "ornito-rincoglionito" which means stupid platypus... yee
 
 ## About me
 
-✨ I'm a **computer science student**, passionate about **programming**, **design** and **art**. I started exploring the world of computers when I was a child and this curiosity has always pushed me to learn more. I like both working on the front-end, where I can express my creativity, back-end and exploring low-level programming, which allows me to understand how systems really work. I like to adapt to different challenges, always trying to improve.
+✨ I'm a **computer science student**, passionate about **programming**, **design** and **art**. I started exploring the world of computers when I was a child and this curiosity has always pushed me to learn more. I enjoy working... basically on everything, actually. Mainly on the front end, where I can express my creativity, and on the back end, as well as exploring low-level programming, which allows me to understand how systems actually work. I enjoy adapting to different challenges, always striving to improve.
 
-😄 I'm a proactive person and always ready for new challenges. I like to listen to other people's advice and collaborate, because I believe that discussion is essential to grow. I have clear goals and I will do my best to achieve them.
+😄 I'm a proactive person, always ready to take on new challenges. I enjoy listening to others' advice and collaborating, because I believe that discussion is essential for growth. I tend to take on a leadership role in teams because I love squeezing people's input and thinking through problems thoroughly. Furthermore, I have clear goals and will do my best to achieve them.
 
-⚒️ I am currently focused on studying and on some personal and extracurricular projects. My goal is to finish school with excellent grades and continue my studies in **engineering** at university.
+⚒️ I am currently focused on studying and on some personal and extracurricular projects. My goal is to finish school with excellent grades and continue my studies in **computer engineering** at PoliTO (Polytechnic University of Turin).
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 2em; margin: 2em 0;">
+## 🧠 Tech Stack
 
-  <!-- Languages -->
-  <div style="box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 1.8em; padding: 1.2em 1.4em; width: fit-content;">
-    <h3>Languages</h3>
-    <p align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" />
-    </p>
-  </div>
+### 💻 Languages
+| Language | Level | Notes |
+|----------|-------|------|
+| **C** | 🚀 Intermediate | Low-level, memory management |
+| **Rust** | 🚀 Intermediate | CLI, tooling, systems mindset |
+| **JavaScript** | 🔥 Advanced | Frontend & backend |
+| **TypeScript** | 🔥 Advanced | Default for serious projects |
+| **Java** | 🧩 Basic | School experience, but cool |
+| **C++** | 🧪 Basic | General knowledge, useful for graphics (SDL, ect.) |
 
-  <!-- OS & Tools -->
-  <div style="box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 1.8em; padding: 1.2em 1.4em; width: fit-content;">
-    <h3>OS & Tools</h3>
-    <p align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" />
-    </p>
-  </div>
+---
 
-  <!-- Frontend -->
-  <div style="box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 1.8em; padding: 1.2em 1.4em; width: fit-content;">
-    <h3>Frontend</h3>
-    <p align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" />
-    </p>
-  </div>
+### 🖥️ Operating Systems & Dev Environment
+| Tools / OS | Usage |
+|----------|-----|
+| **Windows** | ... I use it very little now |
+| **Arch Linux** | Advanced Tweaking |
+| **NixOS Linux** | Advanced Tweaking p2 |
+| **Kali Linux** | Advanced Tweaking p3 |
+| **macOS** | Development Environment and Daily Driver |
+| **Docker** | Dev & Test |
+| **Git / GitHub** | Versioning |
 
-  <!-- Backend -->
-  <div style="box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 1.8em; padding: 1.2em 1.4em; width: fit-content;">
-    <h3>Backend & Fullstack</h3>
-    <p align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="40" />
-    </p>
-  </div>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ornitorink0&show_icons=true&locale=en&layout=compact" alt="ornitorink0" /></p>
+### 🎨 Frontend
+| Technology | Level | Notes |
+|----------|-------|------|
+| **HTML / CSS** | 🔥 Solid | Foundation |
+| **Tailwind CSS** | 🔥 Obviously | Fast CSS |
+| **Shadcn/ui** | 🔥 Favorite | Fast UI |
+| **React** | 🚀 Intermediate | Complex Apps |
+| **Redux Toolkit** | 🚀 Intermediate | State Management |
+| **Angular** | ❌ Dropped | Overkill and so boring |
+| **Astro** | 🧪 Under Evaluation | Nice for blogs |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ornitorink0&" alt="ornitorink0" /></p>
-</div>
+---
+
+### ⚙️ Backend / Fullstack
+| Technology | Level | Notes |
+|----------|-------|------|
+| **Node.js** | 🔥 Robust | API & Tooling |
+| **MongoDB** | 🚀 Intermediate | Data-Heavy Apps |
+| **PrismORM** | 🔥 Of course | Relational |
+| **PHP** | 🧩 Basic (school) | yes |
+| **MySQL** | 🧩 Basic (school) | Relational |
+| **Qdrant** | 🧠 Just learning | Vector DB |
+| **Electron** | 🧪 Experimental | Desktop App |
+| **Tauri** | 🧪 Experimental | Desktop App |
+| **Auth** | ⚠️ Custom | Username / Password |
+
+---
+
+### 🧪 Extra
+| Area | Stack |
+|-----|------|
+| **CLI Tooling** | Rust, Node |
+| **Firmware / Low-level** | C |
+| **Creative Audio** | FL Studio |
+
+---
+
+🤖 I often use AI for programming, but I'm still practicing my problem-solving skills. Programming is just a task; you have to think quickly and effectively, right? I like to keep my repositories clean, efficient, easy to understand, well-documented, formatted, and linted. I use it mainly to avoid rookie mistakes, so I write my version first, then the AI ​​analyzes it and suggests changes. 🦾
+
+---
+
+### 🧭 Philosophy
+- Control > magic
+- Fast and hackable tooling
+- Less framework, more foundation
+- Engineer mindset
+
+I like to do so many things, it's hard for me to focus on just one thing...
+
+> P.S. 🙃 Forgive me if my English is strange, especially in the documentation. I'm better at writing English than I am at speaking it.
 
 ### Connect with me:
 <p align="left">
 <a href="https://codepen.io/ornitorink0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ornitorink0" height="30" width="40" /></a>
 <a href="https://twitter.com/ornitorink0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ornitorink0" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ornitorink0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ornitorink0" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/30593078/ornitorink0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ornitorink0" height="30" width="40" /></a>
 </p>
