@@ -78,16 +78,7 @@
 
 ---
 
-### 🧪 Extra
-| Area | Stack |
-|-----|------|
-| **CLI Tooling** | Rust, Node |
-| **Firmware / Low-level** | C |
-| **Creative Audio** | FL Studio |
-
----
-
-🤖 I often use AI for programming, but I'm still practicing my problem-solving skills. Programming is just a task; you have to think quickly and effectively, right? I like to keep my repositories clean, efficient, easy to understand, well-documented, formatted, and linted. I use it mainly to avoid rookie mistakes, so I write my version first, then the AI ​​analyzes it and suggests changes. 🦾
+🤖 I often use AI for programming, but I'm still practicing my problem-solving skills. Programming is just a task; you have to think quickly and effectively, right? I like to keep my repositories clean, efficient, easy to understand, well-documented, and formatted. I use it mainly to avoid rookie mistakes, so I write my version first, then the AI ​​analyzes it and suggests changes. 🦾
 
 ---
 
