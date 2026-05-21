@@ -1,100 +1,92 @@
-<h1>Haaaay☺️, I'm Ornitorink0</h1>
-<h3>A passionate full-stack developer from Italy</h3>
+# Heyyy 👋, I'm Ornitorink0
 
-- 🔭 I’m currently working on [Mnemosine - Web App for Alzheimer's Diagnosis](https://github.com/Ornitorink0/Mnemosine) and personal projects.
+A passionate full-stack developer from Italy.
 
-- 🌱 I’m currently learning **Rust and type of databases**
+- 🔭 I’m currently working on **GrittySound: A music social platform** and  other personal projects.
 
-<!-- - 👯 I’m looking to collaborate on [Shadcn - UI](https://github.com/shadcn-ui/ui) -->
+- 🌱 I’m currently learning **data synchronization and caching layers**
 
-- 👨‍💻 Check out my portfolio (blog soon) [Ornitorink0.com](Ornitorink0.com)
+- 👨‍💻 Check out my portfolio: [Ornitorink0.com](https://ornko.com)
 
-- 💬 Ask me about **Web Frameworks (like Next.js, ect.), computer & network basics**
+- 💬 Ask me about **Web Frameworks (like Next.js, etc.) and architectures**
 
-- 📫 How to reach me **ornitorink0.dev@gmail.com**
+- 📫 How to reach me: **<ornitorink0.dev@gmail.com>**
 
-- ⚡ Fun fact **Ornitorink0 means platypus (from italian *ornitorinco*)**. My name is a play on "ornito-rincoglionito" which means stupid platypus... yee
+- ⚡ Fun fact: **Ornitorink0 means platypus, from the Italian *ornitorinco***. It is a playful twist on "ornito-rinco(glionito)", which basically means stupid platypus. Yeet, I like platypuses; they are cute and weird, just like me 👌.
 
 ## About me
 
-✨ I'm a **computer science student**, passionate about **programming**, **design** and **art**. I started exploring the world of computers when I was a child and this curiosity has always pushed me to learn more. I enjoy working... basically on everything, actually. Mainly on the front end, where I can express my creativity, and on the back end, as well as exploring low-level programming, which allows me to understand how systems actually work. I enjoy adapting to different challenges, always striving to improve.
+✨ I'm a **computer science student**, passionate about **programming**, **design** and **art**. I started exploring the world of computers when I was a child and this **curiosity** has always pushed me to learn more. I enjoy working... basically on everything, actually. Mainly on the **front-end**, where I can express my creativity, and on the **back-end**, as well as exploring **low-level programming**, which allows me to understand how systems actually work. I enjoy adapting to different challenges, always striving to improve.
 
-😄 I'm a proactive person, always ready to take on new challenges. I enjoy listening to others' advice and collaborating, because I believe that discussion is essential for growth. I tend to take on a leadership role in teams because I love squeezing people's input and thinking through problems thoroughly. Furthermore, I have clear goals and will do my best to achieve them.
+😄 I'm a **proactive** person, always ready to take on new challenges. I enjoy listening to others' advice and **collaborating**, because I believe that discussion is essential for growth. I tend to take on **leadership** roles in teams because I enjoy encouraging others' contributions, analyzing problems in depth, and organizing **ideas**. Furthermore, I have clear future goals regarding **entrepreneurship** and will do my best to achieve them.
 
-⚒️ I am currently focused on studying and on some personal and extracurricular projects. My goal is to finish school with excellent grades and continue my studies in **computer engineering** at PoliTO (Polytechnic University of Turin).
+⚒️ I've worked on many extracurricular projects and some local company projects. I'm currently focusing on my studies and some personal projects. So my goal now is to graduate with a good grade and continue my studies in **computer engineering** at the **Polytechnic University of Turin**.
 
 ## 🧠 Tech Stack
 
-### 💻 Languages
+### 💻 Programming languages
+
+Ranked by actual experience — real projects, not just tutorials.
+
 | Language | Level | Notes |
-|----------|-------|------|
+| --- | --- | --- |
+| **JavaScript / TypeScript** | 🔥 Advanced | Frontend & backend, daily driver |
+| **Rust** | 🚀 Intermediate | CLI, tooling, systems thinking |
 | **C** | 🚀 Intermediate | Low-level, memory management |
-| **Rust** | 🚀 Intermediate | CLI, tooling, systems mindset |
-| **JavaScript** | 🔥 Advanced | Frontend & backend |
-| **TypeScript** | 🔥 Advanced | Default for serious projects |
-| **Java** | 🧩 Basic | School experience, but cool |
-| **C++** | 🧪 Basic | General knowledge, useful for graphics (SDL, ect.) |
+| **Python** | 🚀 Intermediate | Scripting, AI, data science |
+| **Go** | 🚀 Intermediate | Picking it up — clean and fast |
+| **C++** | 🧩 Basic | General knowledge, SDL/graphics |
+| **Java** | 🧩 Basic | School background |
 
----
+### 🎨 Stack
 
-### 🖥️ Operating Systems & Dev Environment
-| Tools / OS | Usage |
-|----------|-----|
-| **Windows** | ... I use it very little now |
-| **Arch Linux** | Advanced Tweaking |
-| **NixOS Linux** | Advanced Tweaking p2 |
-| **Kali Linux** | Advanced Tweaking p3 |
-| **macOS** | Development Environment and Daily Driver |
-| **Docker** | Dev & Test |
-| **Git / GitHub** | Versioning |
+HTML, CSS and Node.js are the baseline — everything below builds on top.
 
----
-
-### 🎨 Frontend
 | Technology | Level | Notes |
-|----------|-------|------|
-| **HTML / CSS** | 🔥 Solid | Foundation |
-| **Tailwind CSS** | 🔥 Obviously | Fast CSS |
-| **Shadcn/ui** | 🔥 Favorite | Fast UI |
-| **React** | 🚀 Intermediate | Complex Apps |
-| **Redux Toolkit** | 🚀 Intermediate | State Management |
-| **Angular** | ❌ Dropped | Overkill and so boring |
-| **Astro** | 🧪 Under Evaluation | Nice for blogs |
+| --- | --- | --- |
+| **React / Next.js** | 🔥 Advanced | Complex apps, production use |
+| **Tailwind CSS / shadcn/ui** | 🔥 Favorite | Fast, consistent UI |
+| **Postgres / MySQL / Prisma ORM** | 🔥 Solid | Relational, always |
+| **Astro** | 🚀 Intermediate | Great for content-heavy sites |
+| **Tauri** | 🧪 Experimental | Desktop apps, way better than Electron |
+| **Elysia** | 🧪 Experimental | Backend framework worth watching |
+
+Also worked with Angular, SvelteKit, MongoDB, Qdrant, and others. I use Vercel, Railway, and AWS for deployment.
 
 ---
 
-### ⚙️ Backend / Fullstack
-| Technology | Level | Notes |
-|----------|-------|------|
-| **Node.js** | 🔥 Robust | API & Tooling |
-| **MongoDB** | 🚀 Intermediate | Data-Heavy Apps |
-| **PrismORM** | 🔥 Of course | Relational |
-| **PHP** | 🧩 Basic (school) | yes |
-| **MySQL** | 🧩 Basic (school) | Relational |
-| **Qdrant** | 🧠 Just learning | Vector DB |
-| **Electron** | 🧪 Experimental | Desktop App |
-| **Tauri** | 🧪 Experimental | Desktop App |
-| **Auth** | ⚠️ Custom | Username / Password |
+🤖 I use AI as a reviewer, not a writer. I write my version first — then use it to catch mistakes and edge cases. Programming is a thinking problem; the code is just the output.
 
----
+### 🖥️ OS & Dev Environment
 
-🤖 I often use AI for programming, but I'm still practicing my problem-solving skills. Programming is just a task; you have to think quickly and effectively, right? I like to keep my repositories clean, efficient, easy to understand, well-documented, and formatted. I use it mainly to avoid rookie mistakes, so I write my version first, then the AI ​​analyzes it and suggests changes. 🦾
+| Tool / OS | Usage |
+| --- | --- |
+| **macOS** | Daily driver |
+| **Arch Linux** | You know the meme |
+| **NixOS / Fedora** | Specific tasks |
+| **Kali Linux** | Pentesting & security |
+| **Docker** | Dev & test environments |
+| **Git / GitHub / GitHub Actions** | Standard de facto |
+| **VS Code** | Main editor |
+| **Figma** | Design & prototyping |
+| **FL Studio** | Music production |
 
----
+## 🌐 Languages
 
-### 🧭 Philosophy
-- Control > magic
-- Fast and hackable tooling
-- Less framework, more foundation
-- Engineer mindset
+| Language | Proficiency |
+| --- | --- |
+| **Italian** | Native |
+| **English** | B2 (written & spoken) |
 
-I like to do so many things, it's hard for me to focus on just one thing...
+## 🎵 About Audio & Music
 
-> P.S. 🙃 Forgive me if my English is strange, especially in the documentation. I'm better at writing English than I am at speaking it.
+Hobby producer (dubstep, riddim, house, DnB) — open to collaborate
+on audio-related projects, acoustics, sound design, or anything
+that sits at the intersection of music and code.
 
-### Connect with me:
-<p align="left">
-<a href="https://codepen.io/ornitorink0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ornitorink0" height="30" width="40" /></a>
-<a href="https://twitter.com/ornitorink0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ornitorink0" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/30593078/ornitorink0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ornitorink0" height="30" width="40" /></a>
-</p>
+### 📫 Connect with me
+
+<!-- Portfolio, X and Email -->
+[<img src="https://ornitorink0.com/favicon.svg" alt="Portfolio" height="30" width="40">](https://ornko.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="GitHub" height="30" width="30">](https://x.com/Ornitorink0)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30">](mailto:ornitorink0.dev@gmail.com)
